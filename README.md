@@ -1,2 +1,0 @@
-# MIS
-MH Intelligence Service 
